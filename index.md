@@ -21,7 +21,7 @@ My research focuses on evidence based urban planning, which is empowered by the 
 Topics: Urban diversity / Transport planning / Causal inference
 
 ### Publications
-The publications is also listed in my [Google Scholar page](https://scholar.google.com/citations?user=-3U01zsAAAAJ).
+The publications are also listed in my [Google Scholar page](https://scholar.google.com/citations?user=-3U01zsAAAAJ).
 
 _2._ Yamaoka, K., **Kumakoshi, Y.**, & Yoshimura, Y. (forthcoming). Local Betweenness Analysis of 30 European Cities. _Urban informatics for future cities_.
 
