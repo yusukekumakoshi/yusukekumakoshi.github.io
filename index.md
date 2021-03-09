@@ -1,4 +1,5 @@
 ---
+# layout: default
 # title: About
 feature_text: |
   ## Yusuke KUMAKOSHI
