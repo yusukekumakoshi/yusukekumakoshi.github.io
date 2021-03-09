@@ -2,7 +2,7 @@
 # layout: default
 # title: About
 feature_text: |
-  ## Yusuke KUMAKOSHI
+  ## Yusuke KUMAKOSHI (熊越祐介)
   Researcher/Engineer in Tokyo, JAPAN
 # feature_image: "https://picsum.photos/1300/400?image=989"
 feature_image: "/assets/giverny-image-transparent.png"
