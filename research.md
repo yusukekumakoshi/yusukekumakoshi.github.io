@@ -8,7 +8,7 @@ aside: true
 ---
 
 ### Urban diversity
-In the mid 20th century, Jane Jacobs claimed the following four conditions for the urban vibrancy: (1) mixed use neighborhoods, (2) small blocks, (3) a mix of old and new buildings, and (4) sufficient density of people. However, this statement has not been quantitatively tested over the last decades. Enabled by the fine-grained data sets, we try to quantify the conditions for the urban vibrancy.
+In the mid 20th century, Jane Jacobs claimed the following four conditions for the urban vibrancy: (1) mixed use neighborhoods, (2) small blocks, (3) a mix of old and new buildings, and (4) sufficient density of people. However, this statement has not been quantitatively tested over the last decades. Enabled by the fine-grained data sets, we try to quantify the conditions for the urban vibrancy. 
 
 Reference:
 Yoshimura, Y., **Kumakoshi, Y.**, Milardo, S., Santi, P., Murillo Arias, J., Koizumi, H., & Ratti, C. (forthcoming). Revisiting Jane Jacobs: Quantifying urban diversity.
