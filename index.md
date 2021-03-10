@@ -30,7 +30,7 @@ _2._ Yamaoka, K., **Kumakoshi, Y.**, & Yoshimura, Y. (forthcoming). Local Betwee
 _1._ **Kumakoshi, Y.**, Chan, S. Y., Koizumi, H., Li, X., & Yoshimura, Y. (2020). [Standardized green view index and quantification of different metrics of urban green vegetation](https://www.mdpi.com/2071-1050/12/18/7434). _Sustainability, 12_(18), 7434.
 
 ##### Working paper
-_1._ Yoshimura, Y., **Kumakoshi, Y.**, Milardo, S., Santi, P., Murillo Arias, J., Koizumi, H., & Ratti, C. (forthcoming) Revisiting Jane Jacobs: Quantifying urban diversity.
+_1._ Yoshimura, Y., **Kumakoshi, Y.**, Milardo, S., Santi, P., Murillo Arias, J., Koizumi, H., & Ratti, C. (forthcoming). Revisiting Jane Jacobs: Quantifying urban diversity.
 <!-- [{% include icon.html id="googlescholar" title="googlescholar" color="#4285F4" %}](https://scholar.google.com/citations?user=-3U01zsAAAAJ)
 [{% include icon.html id="github" title="github" color="#211F1F" %}](https://github.com/yusukekumakoshi)
 [{% include icon.html id="linkedin" title="linkedin" color="#0366d6" %}](https://www.linkedin.com/in/yusuke-kumakoshi-1a0b6166/) -->
