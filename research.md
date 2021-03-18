@@ -29,4 +29,4 @@ Reference:
 **Kumakoshi, Y.**, (2019). An Impact Study of Shared Autonomous Vehicles on Parking Demand in Urban Area. (Master's thesis, the University of Tokyo)
 
 ### Innovation workshop
-To explore innovative idea for the uncertain future, typically with the risk of disasters such as earthquakes, we carried out an innovation workshop for policy makers of Isesaki city, Gumma prefecture, JAPAN in Octobe 2020. More detailed information is available [here](https://scirex.grips.ac.jp/news/archive/210311_2636.html) in Japanese.
+To explore innovative idea for the uncertain future, typically with the risk of disasters such as earthquakes, we carried out an innovation workshop for policy makers of Isesaki city, Gumma prefecture, JAPAN in October 2020. More detailed information is available [here](https://scirex.grips.ac.jp/news/archive/210311_2636.html) in Japanese.
