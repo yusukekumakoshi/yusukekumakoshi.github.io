@@ -98,7 +98,7 @@ subtitle: "Researcher/Engineer, Tokyo, JAPAN"
 # logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "This site is Yusuke KUMAKOSHI's webpage.
   Email: ykuma [at] cd.t.u-tokyo.ac.jp" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://yusukekumakoshi.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/yusukekumakoshi"
 email: "ykuma@cd.t.u-tokyo.ac.jp"
