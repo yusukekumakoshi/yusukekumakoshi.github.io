@@ -24,12 +24,11 @@ Topics: Urban diversity / Transport planning / Causal inference
 The publications are also listed in my [Google Scholar page](https://scholar.google.com/citations?user=-3U01zsAAAAJ){:target="_blank"}.
 
 ##### Peer reviewed journal
+_2._ **Kumakoshi, Y.**, Koizumi, H., & Yoshimura, Y. (forthcoming). Diversity and density of urban functions in station areas. _Computers, Environment and Urban Systems_. Preprint soon available.
 
 _1._ **Kumakoshi, Y.**, Chan, S. Y., Koizumi, H., Li, X., & Yoshimura, Y. (2020). Standardized green view index and quantification of different metrics of urban green vegetation. _Sustainability, 12_(18), 7434. [Link](https://www.mdpi.com/2071-1050/12/18/7434){:target="_blank"}
 
 ##### Working paper
-_4._ **Kumakoshi, Y.**, Koizumi, H., & Yoshimura, Y. (forthcoming). Diversity and density of urban functions in station areas.
-
 _3._ **Kumakoshi, Y.**, Hanabusa, H., & Oguchi, T. (2021). Impacts of shared autonomous vehicles: Tradeoff between parking demand reduction and congestion increase. _arXiv_. [Link](http://arxiv.org/abs/2104.15019){:target="_blank"}
 
 _2._ Yoshimura, Y., **Kumakoshi, Y.**, Milardo, S., Santi, P., Murillo Arias, J., Koizumi, H., & Ratti, C. (forthcoming). Revisiting Jane Jacobs: Quantifying urban diversity.
