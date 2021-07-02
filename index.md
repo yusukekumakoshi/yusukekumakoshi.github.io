@@ -24,7 +24,7 @@ Topics: Urban diversity / Transport planning / Causal inference
 The publications are also listed in my [Google Scholar page](https://scholar.google.com/citations?user=-3U01zsAAAAJ){:target="_blank"}.
 
 ##### Peer reviewed journal
-_2._ **Kumakoshi, Y.**, Koizumi, H., & Yoshimura, Y. (forthcoming). Diversity and density of urban functions in station areas. _Computers, Environment and Urban Systems_. [Free download until August 21 2021](https://authors.elsevier.com/a/1dL1WjFQgr6MZ){:target="_blank"}.
+_2._ **Kumakoshi, Y.**, Koizumi, H., & Yoshimura, Y. (2021). Diversity and density of urban functions in station areas. _Computers, Environment and Urban Systems, 89,_ 101679. Free download until August 21 2021 from [here](https://authors.elsevier.com/a/1dL1WjFQgr6MZ){:target="_blank"}.
 Permanent link: [https://doi.org/10.1016/j.compenvurbsys.2021.101679](https://doi.org/10.1016/j.compenvurbsys.2021.101679){:target="_blank"}
 
 _1._ **Kumakoshi, Y.**, Chan, S. Y., Koizumi, H., Li, X., & Yoshimura, Y. (2020). Standardized green view index and quantification of different metrics of urban green vegetation. _Sustainability, 12_(18), 7434. [Link](https://www.mdpi.com/2071-1050/12/18/7434){:target="_blank"}
