@@ -30,6 +30,8 @@ Permanent link: [https://doi.org/10.1016/j.compenvurbsys.2021.101679](https://do
 _1._ **Kumakoshi, Y.**, Chan, S. Y., Koizumi, H., Li, X., & Yoshimura, Y. (2020). Standardized green view index and quantification of different metrics of urban green vegetation. _Sustainability, 12_(18), 7434. [Link](https://www.mdpi.com/2071-1050/12/18/7434){:target="_blank"}
 
 ##### Working paper
+_4._ **Kumakoshi, Y.**, Onoda, S., Takahashi, T., &Yoshimurai, Y. (2021). Quantifying urban streetscapes with deep learning: focus on aesthetic evaluation. _arXiv preprint arXiv:2106.15361_. [Link](https://arxiv.org/abs/2106.15361){:target="_blank"}
+
 _3._ **Kumakoshi, Y.**, Hanabusa, H., & Oguchi, T. (2021). Impacts of shared autonomous vehicles: Tradeoff between parking demand reduction and congestion increase. _arXiv_. [Link](http://arxiv.org/abs/2104.15019){:target="_blank"}
 
 _2._ Yoshimura, Y., **Kumakoshi, Y.**, Milardo, S., Santi, P., Murillo Arias, J., Koizumi, H., & Ratti, C. (forthcoming). Revisiting Jane Jacobs: Quantifying urban diversity.
