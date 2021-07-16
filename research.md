@@ -11,7 +11,7 @@ aside: true
 In the mid 20th century, Jane Jacobs claimed the following four conditions for the urban vibrancy: (1) mixed use neighborhoods, (2) small blocks, (3) a mix of old and new buildings, and (4) sufficient density of people. However, this statement has not been quantitatively tested over the last decades. Enabled by the fine-grained data sets, we try to quantify the conditions for the urban vibrancy. 
 
 Reference:
-_2._ **Kumakoshi, Y.**, Koizumi, H., & Yoshimura, Y. (2021). Diversity and density of urban functions in station areas. _Computers, Environment and Urban Systems, 89,_ 101679. Free download until August 21 2021 from [here](https://authors.elsevier.com/a/1dL1WjFQgr6MZ){:target="_blank"}.
+**Kumakoshi, Y.**, Koizumi, H., & Yoshimura, Y. (2021). Diversity and density of urban functions in station areas. _Computers, Environment and Urban Systems, 89,_ 101679. Free download until August 21 2021 from [here](https://authors.elsevier.com/a/1dL1WjFQgr6MZ){:target="_blank"}.
 Permanent link: [https://doi.org/10.1016/j.compenvurbsys.2021.101679](https://doi.org/10.1016/j.compenvurbsys.2021.101679){:target="_blank"}
 
 Yoshimura, Y., **Kumakoshi, Y.**, Milardo, S., Santi, P., Murillo Arias, J., Koizumi, H., & Ratti, C. (forthcoming). Revisiting Jane Jacobs: Quantifying urban diversity.
