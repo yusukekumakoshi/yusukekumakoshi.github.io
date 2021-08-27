@@ -3,16 +3,16 @@
 # title: About
 feature_text: |
   ## Yusuke KUMAKOSHI (熊越祐介)
-  Researcher/Engineer in Tokyo, JAPAN
+  Engineer/Researcher in Paris, FRANCE
 # feature_image: "https://picsum.photos/1300/400?image=989"
 feature_image: "/assets/giverny-image-transparent.png"
 excerpt: ""
 aside: true
 ---
 
-I am a project researcher at the Research Center for Advanced Science and Technology, the University of Tokyo.
+I am a transport engineer in Paris, and associate research fellow at the Research Center for Advanced Science and Technology, the University of Tokyo.
 
-Some parts of the webpage is under construction (June 2021).
+Some parts of the webpage is under construction (August 2021).
 
 ### Research
 
