@@ -24,8 +24,9 @@ Topics: Urban diversity / Transport planning / Causal inference
 The publications are also listed in my [Google Scholar page](https://scholar.google.com/citations?user=-3U01zsAAAAJ){:target="_blank"}.
 
 ##### Peer reviewed journal
-_2._ **Kumakoshi, Y.**, Koizumi, H., & Yoshimura, Y. (2021). Diversity and density of urban functions in station areas. _Computers, Environment and Urban Systems, 89,_ 101679. Free download until August 21 2021 from [here](https://authors.elsevier.com/a/1dL1WjFQgr6MZ){:target="_blank"}.
-Permanent link: [https://doi.org/10.1016/j.compenvurbsys.2021.101679](https://doi.org/10.1016/j.compenvurbsys.2021.101679){:target="_blank"}
+_3._ **Kumakoshi, Y.**, Hanabusa, H., & Oguchi, T. (2021). Impacts of shared autonomous vehicles: Tradeoff between parking demand reduction and congestion increase. _Transportation Research Interdisciplinary Perspectives, 12_, 100482. [https://www.sciencedirect.com/science/article/pii/S2590198221001871](https://www.sciencedirect.com/science/article/pii/S2590198221001871){:target="_blank"}
+
+_2._ **Kumakoshi, Y.**, Koizumi, H., & Yoshimura, Y. (2021). Diversity and density of urban functions in station areas. _Computers, Environment and Urban Systems, 89,_ 101679. [https://doi.org/10.1016/j.compenvurbsys.2021.101679](https://doi.org/10.1016/j.compenvurbsys.2021.101679){:target="_blank"}
 
 _1._ **Kumakoshi, Y.**, Chan, S. Y., Koizumi, H., Li, X., & Yoshimura, Y. (2020). Standardized green view index and quantification of different metrics of urban green vegetation. _Sustainability, 12_(18), 7434. [Link](https://www.mdpi.com/2071-1050/12/18/7434){:target="_blank"}
 
@@ -33,9 +34,7 @@ _1._ **Kumakoshi, Y.**, Chan, S. Y., Koizumi, H., Li, X., & Yoshimura, Y. (2020)
 _1._ Yamaoka K., **Kumakoshi Y.**, & Yoshimura Y. (2021). Local Betweenness Centrality Analysis of 30 European Cities. In: Geertman S.C.M., Pettit C., Goodspeed R., Staffans A. (eds) Urban Informatics and Future Cities. The Urban Book Series. Springer, Cham. [https://doi.org/10.1007/978-3-030-76059-5_26](https://doi.org/10.1007/978-3-030-76059-5_26){:target="_blank"}. [Preprint link](https://arxiv.org/abs/2103.11437){:target="_blank"}.
 
 ##### Working paper
-_3._ **Kumakoshi, Y.**, Onoda, S., Takahashi, T., &Yoshimurai, Y. (2021). Quantifying urban streetscapes with deep learning: focus on aesthetic evaluation. _arXiv preprint arXiv:2106.15361_. [Link](https://arxiv.org/abs/2106.15361){:target="_blank"}
-
-_2._ **Kumakoshi, Y.**, Hanabusa, H., & Oguchi, T. (2021). Impacts of shared autonomous vehicles: Tradeoff between parking demand reduction and congestion increase. _arXiv_. [Link](http://arxiv.org/abs/2104.15019){:target="_blank"}
+_2._ **Kumakoshi, Y.**, Onoda, S., Takahashi, T., &Yoshimurai, Y. (2021). Quantifying urban streetscapes with deep learning: focus on aesthetic evaluation. _arXiv preprint arXiv:2106.15361_. [Link](https://arxiv.org/abs/2106.15361){:target="_blank"}
 
 _1._ Yoshimura, Y., **Kumakoshi, Y.**, Milardo, S., Santi, P., Murillo Arias, J., Koizumi, H., & Ratti, C. (forthcoming). Revisiting Jane Jacobs: Quantifying urban diversity.
 
